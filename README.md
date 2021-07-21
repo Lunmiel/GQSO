@@ -1,3 +1,11 @@
 # Calculadora API (GQSO IFAL)
 
- TODO(Lunmiel): editar e desenvolver o projeto da calculadora
+ Este projeto visa o desenvolvimento de uma API de calculadora
+
+### Autores
+
+* **Lucas Emanuel** - *Trabalho Inicial* - [Lunmiel]
+
+## Licença
+
+ Este projeto está sobe a licença
