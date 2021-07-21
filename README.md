@@ -4,8 +4,8 @@
 
 ### Autores
 
-* **Lucas Emanuel** - *Trabalho Inicial* - [Lunmiel]
+* **Lucas Emanuel** - *Trabalho Inicial* - [Lunmiel](https://github.com/Lunmiel)
 
 ## Licença
 
- Este projeto está sobe a Licença MIT - veja o arquivo [LICENCE](https://github.com/Lunmiel/GQSO/blob/main/LICENSE) para detalhes.
+ Este projeto está sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/Lunmiel/GQSO/blob/main/LICENSE) para detalhes.
